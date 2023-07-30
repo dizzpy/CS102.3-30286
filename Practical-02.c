@@ -1,4 +1,4 @@
-//01
+//Question 01
 
 #include <stdio.h>
 
@@ -17,7 +17,7 @@ int main() {
 }
 
 
-//02
+//Question 02
 
 #include <stdio.h>
 
@@ -31,7 +31,7 @@ int main() {
 }
 
 
-//03
+//Question 03
 
 #include <stdio.h>
 
@@ -54,7 +54,7 @@ int main() {
     > We can’t use int and ﬂoat in mix.
 
 
-//04
+//Question 04
 
 #include <stdio.h>
 
