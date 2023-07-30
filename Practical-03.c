@@ -1,4 +1,4 @@
-//01
+//Question 01
 
 #include <stdio.h>
 
@@ -23,7 +23,7 @@ int main() {
 }
 
 
-//02
+//Question 02
 
 #include <stdio.h>
 
@@ -63,7 +63,7 @@ int main() {
 }
 
 
-//03
+//Question 03
 
 #include <stdio.h>
 
@@ -93,7 +93,7 @@ int main() {
 }
 
 
-//04
+//Question 04
 
 #include <stdio.h>
 
@@ -117,7 +117,7 @@ int main() {
 }
 
 
-//05
+//Question 05
 
 #include <stdio.h>
 
@@ -140,7 +140,7 @@ int main() {
 }
 
 
-//06
+//Question 06
 
 #include <stdio.h>
 
@@ -173,7 +173,7 @@ int main() {
 }
 
 
-//07
+//Question 07
 
 #include <stdio.h>
 
